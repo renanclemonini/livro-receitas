@@ -1,5 +1,4 @@
-# mais uma leitura nada a ver pois nao tem editor para esse tipo de arquivo no meu pc, e o typora eh pago
+# Livro de Receitas
 
-- afasfassfa
-- fafafafa
-- fafafaf
+- Receita Salada de Alface
+- Receita Salada de Acelga
